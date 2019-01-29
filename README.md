@@ -1,5 +1,5 @@
 
-# Denoising Auto-Encoders
+# Denoising Autoencoders
 ## Introduction
 In this lesson we will look at Denoising Autoencoders (DAEs). A DAE is a specific type of autoencoder, which is generally implemented as a deep neural network, similar to the example we saw in our previous lesson. The denoising autoencoder is trained to use a hidden layer to reconstruct a particular model based on its inputs. . 
 
